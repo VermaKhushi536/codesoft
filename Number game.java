@@ -39,11 +39,11 @@ public class Main {
                     }
                 }
             }
-            System.out.println("Do you play next round?");
+            System.out.println("Do you want to play next round?");
             round = input.next();
 
         }
-        System.out.println("your score is :"+score);
+        System.out.println("your score is :"+ score);
 
     }
 }
